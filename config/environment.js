@@ -50,7 +50,8 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-
+    ENV.baseURL = '/mosk/dist';
+    ENV.locationType = 'hash';
   }
 
   return ENV;
