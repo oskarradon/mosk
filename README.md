@@ -12,7 +12,7 @@ MoSK is an e-commerce site where the user can view individual pages for the vari
 
 ## Installation
 
-* `git clone https://github.com/patternandshape/mosk.git` this repository
+* `git clone https://github.com/oskarradon/mosk.git` this repository
 *   change into the new directory
 * `npm install`
 * `bower install`
