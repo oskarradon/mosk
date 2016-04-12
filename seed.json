@@ -6,5 +6,30 @@
   "price": "1,000,000,000",
   "image": "http://www.wright-house.com/frank-lloyd-wright/fallingwater-pictures/large-fallingwater-photos/high-resolution/25SW-falling-water-path2-L.jpg",
   "description": "Fallingwater or Kaufmann Residence is a house designed by architect Frank Lloyd Wright in 1935 in rural southwestern Pennsylvania, 43 miles (69km) southeast of Pittsburgh. The home was built partly over a waterfall on Bear Run in the Mill Run section of Stewart Township, Fayette County, Pennsylvania, in the Laurel Highlands of the Allegheny Mountains. The house was designed as a weekend home for the family of Edgar J. Kaufmann, owner of Kaufmann's department store."
+  }, {
+  "title": "Pumpkin",
+  "artist": "Yayoi Kusama",
+  "year": "1994",
+  "country": "Japan",
+  "price": "6,000,000",
+  "image": "http://andrewsolomon.com/wp-content/uploads/2015/07/Yayoi_Kusama_Pumpkin.jpg",
+  "description": "Kusama’s been fascinated by pumpkins for the majority of her career, returning to depicting them in a number of her works, whether in prints, installations or monumental sculptures. She employs the vegetable’s allegorical connotations as well as using it as a form of self-portraiture, “It seems that pumpkins do not inspire much respect. But I was enchanted by their charming and winsome form. What appealed to me most was the pumpkin’s generous unpretentiousness. That and its solid spiritual base.”"
+  }, {
+  "title": "Spiral Jetty",
+  "artist": "Robert Smithson",
+  "year": "1970",
+  "country": "United States",
+  "price": "15,000,000",
+  "image": "https://c2.staticflickr.com/4/3595/3324120309_2038bb7123.jpg",
+  "description": "Spiral Jetty is an earthwork sculpture constructed in April 1970 that is considered to be the central work of American sculptor Robert Smithson. Smithson documented the construction of the sculpture in a 32-minute color film also titled Spiral Jetty."
+  }, {
+  "title": "Family of Man",
+  "artist": "Barbara Hepworth",
+  "year": "1970",
+  "country": "United States",
+  "price": "8,000,000",
+  "image": "https://farm3.staticflickr.com/2420/2321270153_5554c7491c_o.jpg",
+  "description": "The Family of Man, a group of 9 individual bronze sculptures was one of Barbara Hepworth’s final works, completed in 1970, not long before her death in 1975. With bronze sculptures, there are usually several castings. In the case of The Family of Man there are 6 editions. Of these there are two complete sets, one displayed at the Donald M. Kendall Sculpture Garden at PepsiCo, at Purchase, New York while the other is sited at the Yorkshire Sculpture Park, near Wakefield. The remaining pieces are scattered between various locations; in most cases several figures being displayed together. There is a group of three figures from the family outside the Hepworth Gallery in Wakefield, only a few miles from the YSP."
   }]
 }
+
