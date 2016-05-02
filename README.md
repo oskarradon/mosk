@@ -19,6 +19,8 @@ MoSK is an e-commerce site where the user can view individual pages for the vari
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
+OR view the site [here](https://patternandshape.github.io/mosk/dist/index.html#/) on gitHub Pages!
+
 ### Technologies Used
 
 * Ember
